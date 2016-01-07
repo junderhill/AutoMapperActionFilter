@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning.AutoMapper", "Learning.AutoMapper\Learning.AutoMapper.csproj", "{BF970BE4-1D1A-47CE-833B-91986A30C567}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning.AutoMapper.Repository", "Learning.AutoMapper.Repository\Learning.AutoMapper.Repository.csproj", "{C5631D2C-7156-4621-A765-748055E3A1D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BF970BE4-1D1A-47CE-833B-91986A30C567}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF970BE4-1D1A-47CE-833B-91986A30C567}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF970BE4-1D1A-47CE-833B-91986A30C567}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5631D2C-7156-4621-A765-748055E3A1D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5631D2C-7156-4621-A765-748055E3A1D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5631D2C-7156-4621-A765-748055E3A1D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5631D2C-7156-4621-A765-748055E3A1D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
