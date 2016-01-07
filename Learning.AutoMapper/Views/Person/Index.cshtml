@@ -1,0 +1,22 @@
+﻿@model System.Collections.Generic.List<Learning.AutoMapper.Models.PersonViewModel>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>title</title>
+</head>
+<body>
+<div>
+    @foreach (var person in Model)
+    {
+        <h1>@person.Name</h1>
+        <h2>@person.Email</h2>
+    }
+</div>
+</body>
+</html>
