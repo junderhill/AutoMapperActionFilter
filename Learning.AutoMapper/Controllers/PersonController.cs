@@ -18,6 +18,7 @@ namespace Learning.AutoMapper.Controllers
             }
         }
 
+        [AutoMapFilter(typeof(Person), typeof(PersonViewModel))]
         public ActionResult Get(int id)
         {
             using (var personrepo = new PersonRepository())
