@@ -20,7 +20,7 @@ namespace Learning.AutoMapper
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
 
-            Mapper.Initialize(cfg => cfg.CreateMap<Person, PersonViewModel>().ForMember(dest => dest.ConfirmEmail, source => source.MapFrom(x => x.Email)));
+            AutoMapperConfig.RegisterMappings();
         }
     }
 }

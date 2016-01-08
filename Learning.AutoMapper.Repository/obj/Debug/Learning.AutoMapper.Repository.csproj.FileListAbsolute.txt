@@ -3,3 +3,8 @@ c:\Users\jason\OneDrive\Documents\Visual Studio 2015\Projects\Learning.AutoMappe
 c:\Users\jason\OneDrive\Documents\Visual Studio 2015\Projects\Learning.AutoMapper\Learning.AutoMapper.Repository\obj\Debug\Learning.AutoMapper.Repository.csprojResolveAssemblyReference.cache
 c:\Users\jason\OneDrive\Documents\Visual Studio 2015\Projects\Learning.AutoMapper\Learning.AutoMapper.Repository\obj\Debug\Learning.AutoMapper.Repository.dll
 c:\Users\jason\OneDrive\Documents\Visual Studio 2015\Projects\Learning.AutoMapper\Learning.AutoMapper.Repository\obj\Debug\Learning.AutoMapper.Repository.pdb
+C:\Code\AutoMapperActionFilter\Learning.AutoMapper.Repository\bin\Debug\Learning.AutoMapper.Repository.dll
+C:\Code\AutoMapperActionFilter\Learning.AutoMapper.Repository\bin\Debug\Learning.AutoMapper.Repository.pdb
+C:\Code\AutoMapperActionFilter\Learning.AutoMapper.Repository\obj\Debug\Learning.AutoMapper.Repository.csprojResolveAssemblyReference.cache
+C:\Code\AutoMapperActionFilter\Learning.AutoMapper.Repository\obj\Debug\Learning.AutoMapper.Repository.dll
+C:\Code\AutoMapperActionFilter\Learning.AutoMapper.Repository\obj\Debug\Learning.AutoMapper.Repository.pdb

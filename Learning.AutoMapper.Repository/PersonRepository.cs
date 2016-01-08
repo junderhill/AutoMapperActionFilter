@@ -11,11 +11,13 @@ namespace Learning.AutoMapper.Repository
             {
                 new Person()
                 {
-                    Name = "John Smith"
+                    Name = "John Smith",
+                    Email = "john.smith@microsoft.com"
                 },
                 new Person()
                 {
-                    Name = "Sarah Jane"
+                    Name = "Sarah Jane",
+                    Email = "sarah.jane@microsfot.ciom"
                 }
             };
         }
